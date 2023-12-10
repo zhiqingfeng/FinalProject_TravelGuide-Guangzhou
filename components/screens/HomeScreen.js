@@ -17,8 +17,8 @@ export default function HomeScreen() {
 
     {/*Google Custom Search Using Google Custom Search JSON */}
     const handleSearch = async () => {
-        const apiKey= 'AIzaSyDd1y_fiD6CRDX-OaUycLSgkzQF43l9Y80';
-        const cx = '9065580cf44ba434a';
+        const apiKey= 'YOUR_OWN_API';
+        const cx = 'YOUR_OWN_CX';
 
         try {
             const googleSearchURL = `https://www.googleapis.com/customsearch/v1?q=${encodeURIComponent(
