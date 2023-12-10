@@ -14,7 +14,7 @@ The TravelGuide – Guangzhou App serves as a comprehensive introduction to the 
 -	React Native and Expo
      - Utilized React Native for building the mobile app, and Expo for its framework and development tools.
 -	Navigation
-  - React Navigation is used for implementing navigation within the app, including stack navigation and bottom tabs.
+     - React Navigation is used for implementing navigation within the app, including stack navigation and bottom tabs.
 -	External Libraries
   - Axios: Utilized for making HTTP requests. For fetching weather data in the WeatherService.
   - React Native Calendars: Used for ClaendarScreen.
