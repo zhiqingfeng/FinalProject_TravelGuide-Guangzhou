@@ -3,7 +3,7 @@
 The TravelGuide – Guangzhou App serves as a comprehensive introduction to the hometown of Guangzhou, China. Considered the best app they've developed, the project reflects a dedication to creating a valuable and user-friendly experience.
 
 ## Preview
-Image of WelcomeScreen, HomeScreen and SightseeingScreen
+- Image of WelcomeScreen, HomeScreen and SightseeingScreen
 <img width="388" alt="image" src="https://github.com/zhiqingfeng/FinalProject_TravelGuide-Guangzhou/assets/95883827/3125f079-c111-426d-9e51-e9958c8fab1b">
 <img width="392" alt="image" src="https://github.com/zhiqingfeng/FinalProject_TravelGuide-Guangzhou/assets/95883827/4e6da536-61a2-4ff8-8c6f-a21e066f9151">
 <img width="394" alt="image" src="https://github.com/zhiqingfeng/FinalProject_TravelGuide-Guangzhou/assets/95883827/f0b33627-266d-40ad-871e-7decbbebc4ce">
