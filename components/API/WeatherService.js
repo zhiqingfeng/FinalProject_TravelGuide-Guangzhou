@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const OPENWEATHERMAP_API_KEY = '36d688584d9252cd3406fc4b686987ff';
+const OPENWEATHERMAP_API_KEY = 'YOUR_OWN_API';
 
 const weatherService = axios.create({
     baseURL: 'https://api.openweathermap.org/data/2.5',
