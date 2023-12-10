@@ -16,7 +16,7 @@ export default function App() {
   // Use Google geocoding API
   const showAddress = async () => {
     try {
-      const apiKey = 'AIzaSyCqGF17P9UlQRPJrviMQujURWvmhw-hsPs'; // Replace with actual API key
+      const apiKey = 'YOUR_OWN_API'; 
       const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(
         address
       )}&key=${apiKey}`;
@@ -48,7 +48,7 @@ export default function App() {
   const showRestaurants = async () => {
     try {
       if (region.latitude && region.longitude) {
-        const apiKey = 'AIzaSyCqGF17P9UlQRPJrviMQujURWvmhw-hsPs'; 
+        const apiKey = 'YOUR_OWN_API'; 
         const url = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${region.latitude},${region.longitude}&radius=500&type=restaurant&key=${apiKey}`;
         const response = await fetch(url);
         const responseData = await response.json();
