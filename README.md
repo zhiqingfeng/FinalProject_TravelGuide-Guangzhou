@@ -16,13 +16,13 @@ The TravelGuide – Guangzhou App serves as a comprehensive introduction to the 
 -	Navigation
      - React Navigation is used for implementing navigation within the app, including stack navigation and bottom tabs.
 -	External Libraries
-  - Axios: Utilized for making HTTP requests. For fetching weather data in the WeatherService.
-  - React Native Calendars: Used for ClaendarScreen.
-  - React Native Geolocation Service: Fetching information in the MapScreen.
-  - React Native Image Pan Zoom: Zoom functionality in the MetroScreen.
-  - React Native Responsive Screen: Applied for responsive design to adapt to different screen sizes and resolutions.
-  - React Native Vector Icons and @expo/vector-icons: Including vector icons in various app parts.
-  - Expo LinearGradient: Used for creating gradient backgrounds, specifically in the WelcomeScreen.
+     - Axios: Utilized for making HTTP requests. For fetching weather data in the WeatherService.
+     - React Native Calendars: Used for ClaendarScreen.
+     - React Native Geolocation Service: Fetching information in the MapScreen.
+     - React Native Image Pan Zoom: Zoom functionality in the MetroScreen.
+     - React Native Responsive Screen: Applied for responsive design to adapt to different screen sizes and resolutions.
+     - React Native Vector Icons and @expo/vector-icons: Including vector icons in various app parts.
+     - Expo LinearGradient: Used for creating gradient backgrounds, specifically in the WelcomeScreen.
 - Data Storage:
   - @react-native-async-storage/async-storage: Storing and retrieving data in SightseeingScreen, FoodScreen, CulturalScreen and FavoriteScreen. 
 - API Integration:
