@@ -12,8 +12,7 @@ The TravelGuide – Guangzhou App serves as a comprehensive introduction to the 
 
 ## Technologies
 -	React Native and Expo
-  -	Utilized React Native for building the mobile app, and Expo for its framework and development tools.
-  -	  - OpenWeatherMap API.
+  -	  - Utilized React Native for building the mobile app, and Expo for its framework and development tools.
 -	Navigation
   - React Navigation is used for implementing navigation within the app, including stack navigation and bottom tabs.
 -	External Libraries
