@@ -16,7 +16,7 @@ The TravelGuide – Guangzhou App serves as a comprehensive introduction to the 
 -	Navigation
   - React Navigation is used for implementing navigation within the app, including stack navigation and bottom tabs.
 -	External Libraries
-  - Axios: Utilized for making HTTO requests. For fetching weather data in the WeatherService.
+  - Axios: Utilized for making HTTP requests. For fetching weather data in the WeatherService.
   - React Native Calendars: Used for ClaendarScreen.
   - React Native Geolocation Service: Fetching information in the MapScreen.
   - React Native Image Pan Zoom: Zoom functionality in the MetroScreen.
